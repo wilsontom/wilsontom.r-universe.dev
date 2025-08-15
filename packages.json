@@ -6,6 +6,10 @@
 	{
 		"package": "msconverteR",
 		"url": "https://github.com/wilsontom/msconverteR"
+	},
+	{
+		"package": "gaml2r",
+		"url": "https://github.com/wilsontom/gaml2r"
 	}
 
 
