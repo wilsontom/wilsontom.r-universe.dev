@@ -10,6 +10,10 @@
 	{
 		"package": "gaml2r",
 		"url": "https://github.com/wilsontom/gaml2r"
+	},
+	{
+		"package": "micturate",
+		"url": "https://github.com/wilsontom/micturate"
 	}
 
 
