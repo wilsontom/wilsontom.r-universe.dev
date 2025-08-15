@@ -2,6 +2,10 @@
 	{
 		"package": "nomenclatoR",
 		"url": "https://github.com/wilsontom/nomenclatoR"
+	},
+	{
+		"package": "msconverteR",
+		"url": "https://github.com/wilsontom/msconverteR"
 	}
 
 
