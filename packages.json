@@ -14,7 +14,10 @@
 	{
 		"package": "micturate",
 		"url": "https://github.com/wilsontom/micturate"
+	},
+	{
+		"package": "q3ML",
+		"url": "https://github.com/wilsontom/q3ML"
 	}
-
 
 ]
