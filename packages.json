@@ -19,10 +19,6 @@
 		"package": "q3ML",
 		"url": "https://github.com/wilsontom/q3ML"
 	},
-	{
-		"package": "slurmwiz",
-		"url": "https://github.com/wilsontom/slurmiwiz"
-	},
 	{	"package": "cypheR",
 		"url": "https://github.com/wilsontom/cypheR"
 	}
