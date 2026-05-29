@@ -16,6 +16,10 @@
 		"url": "https://github.com/wilsontom/msconverteR"
 	},
 	{
+		"package": "mzrust",
+		"url": "https://github.com/wilsontom/mzrust"
+	},
+	{
 		"package": "gaml2r",
 		"url": "https://github.com/wilsontom/gaml2r"
 	},
