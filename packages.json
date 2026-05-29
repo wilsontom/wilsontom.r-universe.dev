@@ -1,7 +1,15 @@
 [
 	{
-		"package": "nomenclatoR",
-		"url": "https://github.com/wilsontom/nomenclatoR"
+		"package": "GetSampleInfo",
+		"url": "https://github.com/wilsontom/GetSampleInfo"
+	},
+	{
+		"package": "classyfireR",
+		"url": "https://github.com/wilsontom/classyfireR"
+	},
+	{
+		"package": "forestControl",
+		"url": "https://github.com/wilsontom/forestControl"
 	},
 	{
 		"package": "msconverteR",
@@ -12,6 +20,10 @@
 		"url": "https://github.com/wilsontom/gaml2r"
 	},
 	{
+		"package": "metabolighteR",
+		"url": "https://github.com/wilsontom/metabolighteR"
+	},
+	{
 		"package": "micturate",
 		"url": "https://github.com/wilsontom/micturate"
 	},
@@ -20,12 +32,11 @@
 		"url": "https://github.com/wilsontom/q3ML"
 	},
 	{
-		"package": "slurmwiz",
-		"url": "https://github.com/wilsontom/slurmiwiz"
+		"package": "sRm",
+		"url": "https://github.com/wilsontom/sRm"
 	},
-	{	"package": "cypheR",
-		"url": "https://github.com/wilsontom/cypheR"
+	{
+		"package": "slurmwiz",
+		"url": "https://github.com/wilsontom/slurmwiz"
 	}
-
-
 ]
